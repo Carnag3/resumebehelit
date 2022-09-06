@@ -1,0 +1,72 @@
+*{
+color: rgb(226, 229, 231);
+}
+.bodycss{
+    background-image: url(1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    inset: 180%;
+    background-blend-mode: multiply;
+    background-color: rgb(87, 86, 86);
+    font-size: medium;
+    font-weight: normal;  
+}
+
+.tablecss {
+    background-color:#9690a5;
+    font-weight: bolder;
+    font-family: 'Helvetica Neue', sans-serif;
+    
+}
+.tablecss *{color: black;} 
+
+
+
+.h2css {
+    font-family: 'Helvetica Neue', sans-serif;
+    color:#9690a5; 
+}
+
+.olcss {
+    font-family: Verdana,  Tahoma, sans-serif;
+    
+}
+
+.olcss li{
+    color:#9690a5;
+}
+.OpitRaboti h2{
+    color:#9690a5;
+}
+
+
+.SVYAZ{
+    font-size: 150%;
+    color:#9690a5;
+}
+
+.info{
+    font-family: 'Franklin Gothic Medium', sans-serif;
+    font-weight: lighter;
+    color:#9690a5; 
+   
+}
+
+.info p{
+    color:#9690a5;
+
+}
+.info h3{
+    color:#9690a5;
+}
+.info a{
+    color:#9690a5;
+}
+
+.imya1{ 
+    font-family: 'Franklin Gothic Medium', sans-serif;
+    font-weight: lighter;
+    color:#910022;
+    
+}
+
